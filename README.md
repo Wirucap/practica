@@ -3,4 +3,6 @@
 -status del pryecto: en curso
 
 ```Git CMD```
-segunda actualizacion
+
+
+-Segundo intento actualiza
